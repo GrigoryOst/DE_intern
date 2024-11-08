@@ -7,8 +7,6 @@
 - [Тестирование](#тестирование)
 - [Deploy и CI/CD](#deploy-и-ci/cd)
 - [Contributing](#contributing)
-- [To do](#to-do)
-- [Команда проекта](#команда-проекта)
 
 ## Технологии
 - [GatsbyJS](https://www.gatsbyjs.com/)
